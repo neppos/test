@@ -5,7 +5,11 @@
     "description": "Prueba ataque eldiario.es"
   },
   "detail": {
-    "contributors": [],
+    "contributors": [
+      {
+        "name": "pacop"
+      }
+    ],
     "diagrams": [
       {
         "title": "test",
